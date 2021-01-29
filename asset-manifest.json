@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ryadom-desk/static/css/main.a229e911.chunk.css",
+    "main.js": "/ryadom-desk/static/js/main.77260862.chunk.js",
+    "main.js.map": "/ryadom-desk/static/js/main.77260862.chunk.js.map",
+    "runtime-main.js": "/ryadom-desk/static/js/runtime-main.21b00c0b.js",
+    "runtime-main.js.map": "/ryadom-desk/static/js/runtime-main.21b00c0b.js.map",
+    "static/js/2.a569449d.chunk.js": "/ryadom-desk/static/js/2.a569449d.chunk.js",
+    "static/js/2.a569449d.chunk.js.map": "/ryadom-desk/static/js/2.a569449d.chunk.js.map",
+    "static/js/3.bc3dac44.chunk.js": "/ryadom-desk/static/js/3.bc3dac44.chunk.js",
+    "static/js/3.bc3dac44.chunk.js.map": "/ryadom-desk/static/js/3.bc3dac44.chunk.js.map",
+    "index.html": "/ryadom-desk/index.html",
+    "static/css/main.a229e911.chunk.css.map": "/ryadom-desk/static/css/main.a229e911.chunk.css.map",
+    "static/js/2.a569449d.chunk.js.LICENSE.txt": "/ryadom-desk/static/js/2.a569449d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b00c0b.js",
+    "static/js/2.a569449d.chunk.js",
+    "static/css/main.a229e911.chunk.css",
+    "static/js/main.77260862.chunk.js"
+  ]
+}
