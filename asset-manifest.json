@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ryadom-desk/static/css/main.a229e911.chunk.css",
-    "main.js": "/ryadom-desk/static/js/main.77260862.chunk.js",
-    "main.js.map": "/ryadom-desk/static/js/main.77260862.chunk.js.map",
+    "main.js": "/ryadom-desk/static/js/main.9ad85163.chunk.js",
+    "main.js.map": "/ryadom-desk/static/js/main.9ad85163.chunk.js.map",
     "runtime-main.js": "/ryadom-desk/static/js/runtime-main.21b00c0b.js",
     "runtime-main.js.map": "/ryadom-desk/static/js/runtime-main.21b00c0b.js.map",
     "static/js/2.a569449d.chunk.js": "/ryadom-desk/static/js/2.a569449d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.21b00c0b.js",
     "static/js/2.a569449d.chunk.js",
     "static/css/main.a229e911.chunk.css",
-    "static/js/main.77260862.chunk.js"
+    "static/js/main.9ad85163.chunk.js"
   ]
 }
