@@ -65,8 +65,7 @@ function App() {
         <br/>
         RemOnline</div>
 
-        <div onClick={ sync }>
-        <img src="https://www.flaticon.com/svg/vstatic/svg/42/42446.svg?token=exp=1611857367~hmac=73abf5630c9e133134d544b8d6fe6a18"></img>
+        <div onClick={ sync }> Sync Azproject
         <br/>
         График мастеров</div>
 
@@ -105,10 +104,7 @@ function App() {
         <br/>
         Google</div>
 
-        <div onClick={kitchenCalc}>
-        <img src='https://www.flaticon.com/svg/vstatic/svg/649/649223.svg?token=exp=1611833224~hmac=d1d0f9fe208f2b73ff08c81ccdcc6a21'></img>
-        <br/>
-        Калькулятор кухни</div>
+        <div onClick={kitchenCalc}>Калькулятор кухни</div>
 
     <div onClick={vkontakte}>
         <img src='https://pngimg.com/uploads/vkontakte/vkontakte_PNG25.png'></img>
